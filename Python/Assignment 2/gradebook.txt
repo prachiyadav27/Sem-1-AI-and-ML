@@ -1,0 +1,14 @@
+
+Name	Marks	Grade
+-----------------------------
+Alice	74	C
+Bob	95	A
+Lara	66	D
+
+Average: 78.33
+Median: 74
+Highest: Bob (95)
+Lowest: Lara (66)
+
+Passed (3): ['Alice', 'Bob', 'Lara']
+Failed (0): []
